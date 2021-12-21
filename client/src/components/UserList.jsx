@@ -73,7 +73,7 @@ const UserList = ({ setSelectedUsers }) => {
     };
 
     if (client) getUsers();
-  }, []);
+  }, [loading, client]);
 
   if (error) {
     return (
