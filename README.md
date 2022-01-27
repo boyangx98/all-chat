@@ -1,6 +1,6 @@
 # All Chat
 
-All-Goods is a full-stack live chat web app built with React, Hooks, Stream API and Express
+All-Chat is a full-stack live chat web app built with React, Hooks, Stream API and Express
 
 Features:</br>
 + create/edit/search channel/direct messages
