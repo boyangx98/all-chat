@@ -10,5 +10,4 @@ Features:</br>
 + react with emoji picker
 
 ![signup](/client/src/assets/signup.png)
-![search channel](/client/src/assets/channelSearch.png)
 ![chat UI](/client/src/assets/channel.png)
